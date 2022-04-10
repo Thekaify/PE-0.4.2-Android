@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starwhitty.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="starbucks-whitty-menu instance 10000" x="2" y="2" width="225" height="378"/>
+	<SubTexture name="starbucks-whitty-menu instance 10001" x="2" y="2" width="225" height="378"/>
+	<SubTexture name="starbucks-whitty-menu instance 10002" x="2" y="2" width="225" height="378"/>
+	<SubTexture name="starbucks-whitty-menu instance 10003" x="232" y="2" width="224" height="377" frameX="-1" frameY="-1" frameWidth="225" frameHeight="378"/>
+	<SubTexture name="starbucks-whitty-menu instance 10004" x="232" y="2" width="224" height="377" frameX="-1" frameY="-1" frameWidth="225" frameHeight="378"/>
+	<SubTexture name="starbucks-whitty-menu instance 10005" x="232" y="2" width="224" height="377" frameX="-1" frameY="-1" frameWidth="225" frameHeight="378"/>
+	<SubTexture name="starbucks-whitty-menu instance 10006" x="2" y="385" width="225" height="377" frameX="0" frameY="-1" frameWidth="225" frameHeight="378"/>
+	<SubTexture name="starbucks-whitty-menu instance 10007" x="2" y="385" width="225" height="377" frameX="0" frameY="-1" frameWidth="225" frameHeight="378"/>
+	<SubTexture name="starbucks-whitty-menu instance 10008" x="2" y="385" width="225" height="377" frameX="0" frameY="-1" frameWidth="225" frameHeight="378"/>
+</TextureAtlas>

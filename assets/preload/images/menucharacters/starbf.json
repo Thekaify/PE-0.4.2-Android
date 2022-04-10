@@ -1,0 +1,11 @@
+{
+	"idle_anim": "starbucks-bf-menu",
+	"image": "starbf",
+	"position": [
+		0,
+		-55
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

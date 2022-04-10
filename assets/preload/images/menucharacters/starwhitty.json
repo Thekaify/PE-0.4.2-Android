@@ -1,0 +1,11 @@
+{
+	"idle_anim": "starbucks-whitty-menu",
+	"image": "starwhitty",
+	"position": [
+		0,
+		-32
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}
